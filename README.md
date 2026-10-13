@@ -55,8 +55,7 @@ This project uses local application storage. Do not commit database files, real 
 
 ## Author
 
-Soumya Ranjan Dash
-Tesh Kumar Sahu
+Soumya Ranjan Dash & Tesh Kumar Sahu
 
 ## Academic Project
 
